@@ -155,6 +155,7 @@ void filter(string data_filename, string hex_filename)
 
         task3_file << rs << endl;
     }
+    task3_file << "endl";
 }
 int main()
 {
